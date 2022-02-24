@@ -32,4 +32,4 @@
 + **Базы данных:** PostgreSQL, Sequelize ORM
 + **A также:** Jest, REST
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Sofya Tuzhikova's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonya-10&show_icons=true&theme=radical)
