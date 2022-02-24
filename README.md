@@ -20,4 +20,4 @@
 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width=3%>]('')
-[<img src="https://www.pikpng.com/pngl/m/412-4124599_react-react-redux-icon-png-clipart.png" width=3%>]('')
+[<img src="https://pngset.com/images/react-native-logo-symbol-trademark-lighting-badge-transparent-png-1585696.png" width=3%>]('')
