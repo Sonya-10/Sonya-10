@@ -31,3 +31,5 @@
 + **Бекенд:** Node.js, Express, Sessions, hbs
 + **Базы данных:** PostgreSQL, Sequelize ORM
 + **A также:** Jest, REST
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
