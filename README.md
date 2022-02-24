@@ -34,6 +34,6 @@
 
 ***
 
-GitHub cтатистика:
+## GitHub cтатистика:
 
 ![Sofya Tuzhikova's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonya-10&show_icons=true&theme=radical)
