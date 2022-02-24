@@ -11,5 +11,5 @@
 
 ## Контакты:
 
-[https://cdn-icons-png.flaticon.com/512/1409/1409946.png](http://example.com/ "Необязательная подсказка")
+[<img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png">](http://example.com/ "Необязательная подсказка")
 
