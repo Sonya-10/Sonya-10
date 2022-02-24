@@ -1,2 +1,8 @@
-<img src="https://thumbs.gfycat.com/DecimalSaneAffenpinscher-size_restricted.gif" style="width:100%, height:200px" alt="drawing"/>
-![mygif](https://thumbs.gfycat.com/DecimalSaneAffenpinscher-size_restricted.gif)
+# Привет! Я - Софья, frontend разработчик!
+
+Интересуюсь:
++ :computer: web-разработкой, 
++ :art: рисованием,
++ :earth_africa: экологией
+
+:mailbox: Как связаться: sonya14tuzhikova@mail.ru
